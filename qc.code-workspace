@@ -47,9 +47,9 @@
             "**/*.py": false,
             "**/*.cs": false,
             "**/*.ipynb": false,
-            "/Users/shoubhitravi/pairs-trading_MAIFQuant/Multiple Pairs Trading version/**/*.py": true,
-            "/Users/shoubhitravi/pairs-trading_MAIFQuant/Multiple Pairs Trading version/**/*.cs\"": true,
-            "/Users/shoubhitravi/pairs-trading_MAIFQuant/Multiple Pairs Trading version/**/*.ipynb": true
+            "/Users/shoubhitravi/pairs-trading_MAIFQuant/Multiple Pairs Trading version/**/*.py": false,
+            "/Users/shoubhitravi/pairs-trading_MAIFQuant/Multiple Pairs Trading version/**/*.cs\"": false,
+            "/Users/shoubhitravi/pairs-trading_MAIFQuant/Multiple Pairs Trading version/**/*.ipynb": false
         }
     }
 }
